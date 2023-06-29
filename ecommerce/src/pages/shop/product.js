@@ -15,11 +15,12 @@ const Product = ({ data }) => {
         </p>
         <p>${price}</p>
       </div>
-      <button className="cartButton" onClick={() => addToCart(id)}>
+      <button className="button-56" onClick={() => addToCart(id)}>
         Add to Cart {cartItemCount > 0 && <> ({cartItemCount}) </>}
       </button>
     </div>
   );
 };
+
 
 export default Product;

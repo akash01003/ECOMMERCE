@@ -5,7 +5,7 @@ import "./navbar.css";
 
 function Navbar() {
   return (
-    <div className="navbar">
+    <div className="navbar sticky">
       <div className="links">
         <Link to="/"> Shop </Link>
         <Link to="/cart">
