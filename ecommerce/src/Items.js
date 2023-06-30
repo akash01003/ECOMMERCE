@@ -12,19 +12,19 @@ export const Items = [
   {
     id: 1,
     productName: "Airpods Pro",
-    price: "23990.0",
+    price: "23990.99",
     productImage: product1,
   },
   {
     id: 2,
     productName: "MacBook 13 inch (M2 Chip)",
-    price: "154900.0",
+    price: "154900.99",
     productImage: product2,
   },
   {
     id: 3,
     productName: "Canon EOS 80d",
-    price: "83500.0",
+    price: "83500.99",
     productImage: product3,
   },
   {
@@ -48,7 +48,7 @@ export const Items = [
   {
     id: 7,
     productName: "Iphone",
-    price: "139999.0",
+    price: "139999.89",
     productImage: product7,
   },
   {
